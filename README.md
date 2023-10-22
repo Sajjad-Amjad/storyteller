@@ -22,6 +22,8 @@ This LLM is fine-tuned on [Bloom-3B](https://huggingface.co/bigscience/bloom-3b)
 
 The Hugging Face model card: [sajjadamjad/storyteller](https://huggingface.co/sajjadamjad/storyteller)
 
+Finetuning Notebook: [colab](https://colab.research.google.com/drive/1tY00knVfb_TUI0HkOdhNkgp2KirWPOIG?usp=sharing)
+
 ## :rocket: Model deployment and app [[code]](https://github.com/Sajjad-Amjad/storyteller/tree/main/src)
 
 The model is deployed on Inference Endpoints from Hugging Face, and the applicaiton is built and deployed on Streamlit.
